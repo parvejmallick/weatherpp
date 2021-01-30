@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/parvejmallick/devClip/master/Screenshot.png)
+![](https://raw.githubusercontent.com/parvejmallick/weatherpp/master/Screenshot.png)
 
 # Getting Started with Create React App
 
